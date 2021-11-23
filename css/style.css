@@ -1,6 +1,3 @@
-body{
-    width: auto;
-}
 .carousel{
     max-width: 700px;
     margin: auto;
@@ -12,4 +9,11 @@ body{
 }
 .row{
     padding: 50px;
+}
+.email{
+    max-width: 700px;
+    margin: auto;
+}
+.rodape{
+    text-align: center;
 }
